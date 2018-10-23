@@ -1,0 +1,11 @@
+menu:
+  Home: /
+  Archives: archives/
+  Categories: categories/
+  About: about/
+
+piwik_analytics:
+    domain: insidious.sdapi.net
+    siteId: 15
+
+useGoogle: false
