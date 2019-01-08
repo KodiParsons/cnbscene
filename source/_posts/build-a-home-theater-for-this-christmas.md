@@ -8,7 +8,7 @@ category: upgrade lifestyle
 
 Home theater is no longer just an extravagance for the rich and famous. Thanks to more affordable technology, many families can enjoy the real cinema experience without leaving home. A home theater is quite useful, you can enjoy the theater time on your own or with your family without disturbing. So, why not build a home theater at home before Christmas. Here are a few simple steps to help you build a home theater.
 
-![](/images/9.png)
+![](/images/10.jpg)
 
 #### Pick a Location
 
@@ -43,7 +43,7 @@ Except for some prefer the good image quality of TV, most of the home theater en
 
 With a budget under 1000$, XGIMI H2 will be your good choice. A decent home theater requires 1000 lumens or brighter. And XGIMI H2 [home projector](https://www.xgimi.com/en/H2-immersive-home-projector.html) projects a full HD image with physical resolution up to 1920x1080 pixels and 1350 ANSI lumens brightness. Its motion compensation technology and built-in Harman Kardon speakers can provide you with a better film watching experience. Above all, XGIMI H2 is a cost-effective home projector for you to choose among the projector market.
 
-![](/images/10.jpg)
+![](/images/9.png)
 
 ##### Popcorn Maker
 
