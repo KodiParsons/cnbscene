@@ -4,6 +4,9 @@ date: 2018-10-23 17:01:28
 layout: categories
 ---
 
+## Upgrade Lifestyle
+<a href="/build-a-home-theater-for-this-christmas.html">Build a Home Theater for This Christmas</a>
+
 ## Printing Process
 
 <a href="/advantage-and-disadvantage.html">Advantage And Disadvantage</a>
