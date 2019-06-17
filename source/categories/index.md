@@ -22,10 +22,7 @@ layout: categories
 <a href="/inkjet-or-laser-printer.html">Inkjet or Laser Printer</a>
 <a href="/the-best-laser-printer.html">The Best Laser Printer</a>
 
-## History
-
-<a href="/laser-printer-timeline.html">Laser Printer Timeline</a>
-
-## Definition
+## Printer Nowadays
 
 <a href="/what-is-laser-printer.html">What Is Laser Printer</a>
+<a href="/laser-printer-timeline.html">Laser Printer Timeline</a>
