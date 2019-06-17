@@ -1,7 +1,7 @@
 ---
 title: Could sitting next to a laser beam printer cause you to sick
 date: 2018-10-05 09:30:00
-category: Health Risk & Safety
+category: health risk & safety
 ---
 
 ![](/images/6.jpg)
