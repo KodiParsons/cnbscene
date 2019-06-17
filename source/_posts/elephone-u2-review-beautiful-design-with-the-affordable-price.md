@@ -1,5 +1,5 @@
 ---
-title: Elephone U2 Review: Beautiful Design with the Affordable Price
+title: Elephone U2 Review Beautiful Design with the Affordable Price
 date: 2019-06-18 15:57:00
 category: upgrade lifestyle
 ---
