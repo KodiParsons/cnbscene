@@ -1,7 +1,7 @@
 ---
 title: The Best Laser Printer
 date: 2018-9-09 10:50:00
-category: Which is More Economical
+category: which is more economical
 ---
 
 ![](/images/8.jpg)
