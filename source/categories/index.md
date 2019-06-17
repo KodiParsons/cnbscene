@@ -9,7 +9,7 @@ layout: categories
 
 ## Printing Process
 
-<a href="/advantage-and-disadvantage.html">Advantage And Disadvantage</a>
+<a href="/advantage-and-disadvantage-of-laser-printer.html">Advantage And Disadvantage of Laser Printer</a>
 <a href="/common-explanations-why-printers-jam.html">Common Explanations Why Printers Jam</a>
 <a href="/what's-inside-and-its-process.html">What's Inside And Its Process</a>
 
