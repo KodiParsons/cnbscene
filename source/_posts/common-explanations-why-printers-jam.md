@@ -1,7 +1,7 @@
 ---
 title: Common Explanations Why Printers Jam
 date: 2018-10-13 08:00:00
-category: Printing Process
+category: printing process
 ---
 
 ![](/images/5.jpg)
