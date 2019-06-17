@@ -1,7 +1,7 @@
 ---
 title: Laser Printer Timeline
 date: 2018-9-20 08:00:00
-category: History
+category: printer nowadays
 ---
 
 ![](/images/2.jpg)
