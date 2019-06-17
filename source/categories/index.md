@@ -6,6 +6,7 @@ layout: categories
 
 ## Upgrade Lifestyle
 <a href="/build-a-home-theater-for-this-christmas.html">Build a Home Theater for This Christmas</a>
+<a href="/elephone-u2-review-beautiful-design-with-the-affordable-price.html">Elephone U2 Review: Beautiful Design with the Affordable Price</a>
 
 ## Printing Process
 
