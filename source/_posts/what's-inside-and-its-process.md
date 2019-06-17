@@ -1,7 +1,7 @@
 ---
 title: What's Inside And Its Process
 date: 2018-8-12 12:20:00
-category: Printing Process
+category: printing process
 ---
 
 ![](/images/4.jpg)
