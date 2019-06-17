@@ -1,7 +1,7 @@
 ---
 title: What Is Laser Printer
 date: 2018-8-29 07:30:00
-category: Definition
+category: printer nowadays
 ---
 
 ![](/images/1.jpg)
