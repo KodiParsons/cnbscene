@@ -1,7 +1,7 @@
 ---
 title: Inkjet or Laser Printer
 date: 2018-9-26 10:44:00
-category: Which is More Economical
+category: which is more economical
 ---
 
 ![](/images/7.jpg)
