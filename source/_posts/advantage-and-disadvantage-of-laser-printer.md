@@ -1,7 +1,7 @@
 ---
-title: Advantage And Disadvantage
+title: Advantage And Disadvantage of Laser Printer
 date: 2018-10-23 11:25:00
-category: Printing Process
+category: printing process
 ---
 
 ![](/images/3.jpg)
