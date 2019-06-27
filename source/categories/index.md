@@ -27,3 +27,7 @@ layout: categories
 
 <a href="/what-is-laser-printer.html">What Is Laser Printer</a>
 <a href="/laser-printer-timeline.html">Laser Printer Timeline</a>
+
+## 3D Printing
+
+<a href="/cnc-machining-vs-3d-printing.html">CNC Machining VS 3D Printing</a>
